@@ -147,11 +147,12 @@ exec("bvfdhvdhvcdcdsgcvdsgvdsgsdcsdgcvsdhcsdghcvsdgcdgsvsdghvsdghcvsdghsdghcxghv
 
 &nbsp;
 - 👨🏽‍💻 HELLO I’m BL4CKF0Xk
+- I'm Learning Assembly Language In these Days
 - ⚡️ I’m looking to collaborate with Hacking tool Developers
 - 🤔 I’m looking for Programming Knowledge
 - ⚡️ My Hobby is Hacking
 - 💬 Ask me about anything, I am happy to help :)
-- 📫 How to reach me: kavinduksks@gmail.com
+- 📫 How to reach me: BlackFoxKS@yandex.com
 
 <!-- exec("nbjmhytvcdcdsgcvdsgvdsgsdcsdgcvsdhcsdghcvsdgcdgsvsdghvsdghcvsdghsdghcxghvdsghvsgcvsdghcvsdgsdgcvdshsdhjcdssdhcdshdsbhcsdbhjsdbchjsdchdschdshjdsbsdhcvdshvbsdhvbhvbhvbdhbdvhdbvhjdfbvhjfdbvhfdbvhfdbvfdhvdfhvbdvbdjkvbfdhbdfhbdhvdfhvbdhvdfhdhvhehdbferbbehjbvfhbehdbvfdhbvdhvbeffwugfwfwflufiwkfhbfwgfiwefyyufshufwyhvbfwdhbwdyvsvsbvubvdshvsdbchwdhvsdbvhbvh")
 exec("fbdsvhccbcbadvavGFcfXdxDRXDxtxutxjCXfcFxtdJXrtXTjtrXRyCRFxcYKYRFcYFkCYKyCfcxYFXCYFJxfyxkfyXFxFXxXfCFFfCFxfFYFffkdktrjDRYDRYdGctgdtdkYDDCTdKTYKDDtDKdtYddkytddyrycFxdkyrDYRfdRKDkKRKYDtdkKTYDYGYUDGDSJSVFKFDSUFSSDGSVFSDVGgdsvshvsdusdgsdsdsdcvcyuhsvcdsvdsgvsdcgssugcsvgkfyskuygsfcsydfsfsvfusvsdcvgvcgdsvgsdvsdgvgsvgcvsdgvsdgsvdgssdvgcvscdshcgvcdscvsgcvgsavcasc")
