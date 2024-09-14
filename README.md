@@ -7,15 +7,13 @@ I'm a Cyber Security Student/ Cryptography Learner/ Front End developer...
 
 👩‍💻 I'm currently working at My Own Projects
 
-🧠 I'm currently learning about Reverse Engineering
+🧠 I'm currently learning about Reverse Engineering, Ai & Blockchain Security, Cryptography
 
 👯‍♀️ I'm looking to collaborate on Cyber Security projects
 
-🤔 I'm looking for help with Cryptography
-
 📫 How to reach me [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindu-sahan/)
 
-😄 Pronouns = BlackFoxk
+😄 Pronouns = bl4ckf0xk
 
 ## 🛠 Skills
-C, Python, React JS, Nessus, Javascript, HTML, CSS...
+C, Python, React JS/ Native, Nessus, Javascript, HTML, CSS...
