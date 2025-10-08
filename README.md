@@ -35,25 +35,18 @@ I'm a passionate Cyber Security enthusiast, Cryptography learner, and a Front-En
   <a href="https://www.linkedin.com/in/kavindu-sahan/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  
-      <style>
-        .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=kavindu-sahan" target="_blank">Follow on LinkedIn</a>
+  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=kavindu-sahan" 
+     target="_blank"
+     style="display:inline-block;
+            padding:7px 16px;
+            color:#ffffff;
+            background-color:#0A66C2;
+            border-radius:16px;
+            text-decoration:none;
+            font-family:Helvetica, Arial, sans-serif;
+            font-weight:600;">
+    Follow on LinkedIn
+  </a>
 </p>
 <!-- 📫 Add other ways to reach you if any -->
 
