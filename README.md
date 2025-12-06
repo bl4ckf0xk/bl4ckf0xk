@@ -1,29 +1,7 @@
-# Hi there, I'm Kavindu Sahan (bl4ckf0xk) 👋
+# Hi there, I'm Kavindu Sahan (bl4ckf0xk)
 
 ## 🚀 About Me
 I'm a passionate Cyber Security enthusiast, Cryptography learner, and a Front-End Developer on a mission to build secure and innovative digital solutions.
-
----
-
-### 🔭 I’m currently working on:
-- Honing my skills in various Cyber Security domains.
-- Developing personal projects to apply and showcase my learning.
-<!-- 👩‍💻 Add more details about your current projects here -->
-
----
-
-### 🌱 I’m currently learning:
-- Advanced Reverse Engineering techniques
-- AI & Blockchain Security principles
-- Deepening my understanding of Cryptography
-<!-- 🧠 Share more about your learning journey -->
-
----
-
-### 👯 I’m looking to collaborate on:
-- Open-source Cyber Security projects
-- Innovative web development projects with a security focus
-<!-- 👯‍♀️ Specify the types of projects you're excited to collaborate on -->
 
 ---
 
@@ -36,7 +14,6 @@ I'm a passionate Cyber Security enthusiast, Cryptography learner, and a Front-En
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-<!-- 📫 Add other ways to reach you if any -->
 
 ---
 
