@@ -22,6 +22,12 @@ I'm a passionate Cyber Security enthusiast, Cryptography learner, and a Front-En
   <img src="github-metrics.svg" alt="GitHub Metrics" style="width: 100%; max-width: 600px;">
 </p>
 
+<p align="center">
+  <a href="https://tryhackme.com/p/bl4ckf0xk" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/bl4ckf0xk.png" alt="TryHackMe Badge" />
+  </a>
+</p>
+
 ---
 <p align="center">
   <em>Pronouns: bl4ckf0xk</em>
