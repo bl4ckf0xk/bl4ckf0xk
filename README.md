@@ -1,6 +1,6 @@
 # Hi there, I'm Kavindu Sahan (bl4ckf0xk)
 
-## 🚀 About Me
+## 🙂‍↔️ About Me
 I'm a passionate Cyber Security enthusiast, Cryptography learner, and a Front-End Developer on a mission to build secure and innovative digital solutions.
 
 ---
